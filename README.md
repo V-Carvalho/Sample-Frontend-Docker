@@ -24,6 +24,6 @@ Amostra de como consumir o Front-end usando Docker e Node.js.
 
 * OBS: Necessário ter o Docker instalado na sua máquina. [Link da documentação](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 
-## 🌐 Link da Front-end
+## 🌐 Link da front-end
 
 * [Front-end](https://sample-frontend-docker.azurewebsites.net/)
