@@ -24,6 +24,6 @@ Amostra de como fazer deploy do Front-end usando Docker e Node.js.
 
 * OBS: Necessário ter o Docker instalado na sua máquina. [Link da documentação](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 
-## 🌐 Link da API
+## 🌐 Link da Front-end
 
-* [DOCKER](https://sample-frontend-docker.azurewebsites.net/)
+* [Front-end](https://sample-frontend-docker.azurewebsites.net/)
