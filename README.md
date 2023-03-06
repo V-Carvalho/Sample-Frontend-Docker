@@ -1,8 +1,8 @@
-# Deploy Front-end
+# Front-end
 
 ## 📝 Descrição
 
-Amostra de como fazer deploy do Front-end usando Docker e Node.js.
+Amostra de como consumir o Front-end usando Docker e Node.js.
 
 ## 🔧 Tecnologias utilizadas
 
