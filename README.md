@@ -20,7 +20,7 @@ Amostra de como fazer deploy do Front-end usando Docker e Node.js.
 * Criar container
 >docker run --name **"nome-do-container"** -p **"porta-do-host"**:**"porta-do-container"** -d **"nome-da-imagem"**:**"tag"**
 
-* Sua aplicação deve ser acessada em:  [localhost:3000](localhost:3000/)
+* Sua aplicação deve ser acessada em:  [localhost:3000](http://localhost:3000/)
 
 * OBS: Necessário ter o Docker instalado na sua máquina. [Link da documentação](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 
